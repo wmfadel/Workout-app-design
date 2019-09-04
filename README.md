@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+- Flutter application design for Workout app, original design by ◒ Unfold | Stian [here](https://dribbble.com/shots/6202994-Fitness-App-Concept)
+
+<img src=https://github.com/wmfadel/Workout-app-design/blob/master/screenshots/Screenshot_20190904-172845.jpg width="320"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
